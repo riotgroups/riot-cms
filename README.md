@@ -1,2 +1,2 @@
-riot-cms
+Riot CMS (framework CodeIgnoter)
 ========
